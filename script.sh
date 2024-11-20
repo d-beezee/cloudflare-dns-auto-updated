@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONFIG_FILE="auth.json"
+CONFIG_FILE="/usr/local/bin/auth.json"
 CLOUDFLARE_API="https://api.cloudflare.com/client/v4"
 
 # Funzione per stampare l'uso dello script
